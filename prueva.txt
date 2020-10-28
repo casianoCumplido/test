@@ -1,0 +1,5 @@
+lista = ["carmen","elena","lucia","sara","patricia","sonsoles"]
+tamanio = len(lista)
+print "Recorrer lista por Indices"
+for x in range(0,len(lista)):
+    print lista[x]
