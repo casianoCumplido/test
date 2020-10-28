@@ -1,0 +1,9 @@
+int a = 0;
+for (a; a< 10: a++){
+  print("Arremangala Arrempujala");
+  if(a%2 == 0){
+    print("si")
+  }else{
+    print("no");
+  }
+}
