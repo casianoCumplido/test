@@ -1,5 +1,10 @@
-lista = ["carmen","elena","lucia","sara","patricia","sonsoles"]
-tamanio = len(lista)
-print "Recorrer lista por Indices"
-for x in range(0,len(lista)):
-    print lista[x]
+int a = 0;
+for (a; a< 10: a++){
+  print("Arremangala Arrempujala");
+  if(a%2 == 0){
+    print("si")
+  }else{
+    print("no");
+  }
+}
+
